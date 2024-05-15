@@ -1,0 +1,112 @@
+let questions = [
+    {
+        numb: 1,
+        question: "what does html stand for?",
+        answer: "A. Hyper Text Markup Language",
+        options: [
+            "A. Hyper Text Markup Language",
+            "B. Hyper Text Multi Language",
+            "C. Hyper Text Multiple Language",
+            "D. Home Text Multi Language"
+        ]
+    },
+    {
+        numb: 2,
+        question: "what does CSS stand for?",
+        answer: "A. Cascading Style Sheet",
+        options: [
+            "A. Cascading Style Sheet",
+            "B. Cute Style Sheet",
+            "C. Computer Style Sheet",
+            "D. Codehal Style Sheet"
+        ]
+    },
+    {
+        numb: 3,
+        question: "what does PHP stand for?",
+        answer: "A. Hypertext preprocessor",
+        options: [
+            "A. Hypertext preprocessor",
+            "B. Hyper Text Multi Language",
+            "C. Hyper Text Multiple Language",
+            "D. Home Text Multi Language"
+        ]
+    },
+    {
+        numb: 4,
+        question: "what does SQL stand for?",
+        answer: "D. Structured Query Language",
+        options: [
+            "A. Strength Query Language",
+            "B. Stylesheet Query Language",
+            "C. Science Question Language",
+            "D. Structured Query Language"
+        ]
+    },
+    {
+        numb: 5,
+        question: "what does XML stand for?",
+        answer: "D. Extensible Markup Language",
+        options: [
+            "A. Excellent Multiple Language",
+            "B. Explore Multiple Language",
+            "C. Extra Markup Language",
+            "D. Extensible Markup Language"
+        ]
+    },
+    {
+        numb: 6,
+        question: "Who is making the Web standards?",
+        answer: "C. The world wide web consortium",
+        options: [
+            "A. Google",
+            "B. Microsoft",
+            "C. The world wide web consortium",
+            "D. Mozilla"
+        ]
+    },
+    {
+        numb: 7,
+        question: "Choose the correct HTML element for the largest heading?",
+        answer: "A. h1",
+        options: [
+            "A. h1",
+            "B. h6",
+            "C. head",
+            "D. heading"
+        ]
+    },
+    {
+        numb: 8,
+        question: "What is the correct HTML element for inserting a line break?",
+        answer: "B. br",
+        options: [
+            "A. break",
+            "B. br",
+            "C. lb",
+            "D. li"
+        ]
+    },
+    {
+        numb: 9,
+        question: "Which HTML element defines the title of a document?",
+        answer: "C. Title tag",
+        options: [
+            "A. Head tag",
+            "B. Body tag",
+            "C. Title tag",
+            "D. Meta tag"
+        ]
+    },
+    {
+        numb: 10,
+        question: "What is the correct HTML element for playing video files?",
+        answer: "A. Video element",
+        options: [
+            "A. Video element",
+            "B. Movie element",
+            "C. Media element",
+            "D. Audio"
+        ]
+    },
+    
