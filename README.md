@@ -8,9 +8,9 @@ This interactive quiz app makes learning fun and easy. With a user-friendly inte
 
 # Collaborators
 The team includes the following student
-Himani(2310990521)
-Himanshu(2310990522)
-Hitanshu Tyagi(2310990523)
+1.Himani(2310990521)
+2.Himanshu(2310990522)
+3.Hitanshu Tyagi(2310990523)
 
 # Ways to access the HTML file 
 1. Clone the repository using git clone command.
@@ -27,6 +27,7 @@ To use the source code management system:
 
 # Contributing
 We welcome contribution from the community! To contribute to the project.
+
 1.Fork the repository.
 2.Clone your forked repository.
 3.Create a new branch for your feature or for bug fix.
